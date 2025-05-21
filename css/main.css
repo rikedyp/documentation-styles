@@ -15,7 +15,7 @@ code, .command, .Dyalog {
     font-family: APL;
 }
 .md-typeset code { 
-    font-size: inherit;
+    font-size: 120%;
     background: none!important;
  }
 
