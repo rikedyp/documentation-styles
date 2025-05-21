@@ -3,6 +3,10 @@
     src: local("APL385 Unicode"), url("../fonts/apl385.ttf");
 }
 
+.example {
+    font-variant-caps: all-small-caps;
+}
+
 .language-APL, .language-apl {
     font-family: APL !important;
     line-height: 1.2em !important;
