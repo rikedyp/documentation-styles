@@ -3,9 +3,12 @@
     src: local("APL385 Unicode"), url("../fonts/apl385.ttf");
 }
 
-.language-APL {
+.language-APL, .language-apl {
     font-family: APL !important;
     line-height: 1.2em !important;
+}
+.language-nonAPL, .language-nonapl {
+    font-family: 'Courier New', Courier, monospace;
 }
 
 code, .command, .Dyalog {
