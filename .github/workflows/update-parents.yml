@@ -1,5 +1,8 @@
 name: 'Submodule Update Parents'
 
+permissions:
+  actions: write
+
 on:
   push:
     branches:
