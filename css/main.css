@@ -1,6 +1,6 @@
 @font-face {
     font-family: APL;
-    src: local("APL385 Unicode"), url("../fonts/apl385.ttf");
+    src: local("APL385 Unicode"), url("../fonts/APL385/apl385.ttf");
 }
 
 .example {
